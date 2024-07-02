@@ -1,0 +1,11 @@
+.container {
+    width: 800px;
+    margin-inline: auto;
+}
+
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
